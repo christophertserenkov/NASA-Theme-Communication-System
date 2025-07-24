@@ -1,7 +1,9 @@
 # A two-way communication system with Raspberry Pi Pico W
 
 ### Preview:
-![IMG_4340 2](https://github.com/user-attachments/assets/54cb0f8f-b817-43e1-9c3b-2ea681c330c6)
+![IMG_4340 2](https://github.com/user-attachments/assets/27e0824d-c399-4e26-93c6-02bd138860f6)
+
+
 
 ### Description
 This project is a two-way communication system built with a Supabase backend. On one side, a React web app allows users to send messages from a computer. On the other side, a Raspberry Pi Pico with Wi-Fi connects to the backend to both send and receive messages.
